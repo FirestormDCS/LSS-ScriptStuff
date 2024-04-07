@@ -2,7 +2,7 @@
 // @name         vehicleChanges
 // @version      2.0.2
 // @description  ändert die Einstellungen von AB, SEG ELW, GRTW, Außenlastbehälter und DGL
-// @author       DrTraxx (Verbessert durch: Firestorm_claw und nino_blitz)
+// @author       DrTraxx
 // @include      *://www.leitstellenspiel.de/*
 // @grant        GM_addStyle
 // ==/UserScript==
